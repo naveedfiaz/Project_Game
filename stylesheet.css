@@ -1,0 +1,23 @@
+body{
+	margin : 0px auto ;
+	text-align:center ;
+}
+#restart
+{
+	margin-right : 10px;
+	margin-top : 20px;
+}
+.play
+{
+	width : 120px;
+	height :50px;
+   font-size:20px;
+   color:  #2c251b;
+   border : 2px solid #51483e ;
+   border-radius: 10px;
+}
+canvas {
+    margin-top : 50px ;
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
